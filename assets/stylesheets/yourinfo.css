@@ -1,0 +1,49 @@
+body{
+  font-family: arial;
+}
+a{
+  margin: 0 15 0 15;
+  color:black;
+  text-decoration: none;
+
+}
+h1 {
+  color: #ff9933;
+}
+
+nav.NavBar {
+background-color: white;
+border-style: solid;
+border-width: thin;
+margin: auto;
+}
+p {
+  display: inline-block;
+}
+div.name_Form{
+  margin: 50 0 50 100;
+  display: inline-block;
+}
+div.email_Form{
+  margin: 50 0 50 100;
+  display: inline-block;
+}
+div.phone_Form{
+  margin: 50 0 50 100;
+  display: inline-block;
+}
+div.fromColorado {
+  float:left;
+  display: inline;
+}
+div.notfromColorado {
+  padding-left: 20px;
+  display: inline;
+}
+form{
+  color: #cc00ff;
+}
+div.sumbit {
+  padding-top: 20px;
+
+}
